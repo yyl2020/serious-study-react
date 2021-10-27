@@ -1,4 +1,6 @@
-// components: UI building block
+/*
+* components: UI building block
+* */
 // React 组件是一个 JS 函数, 你能做上记号(sprinkle with markup)
 // 创建组件的3个步骤：1. Export the component 2. Define the function 3. add markup
 export function Profile () { // 函数组件名必须大写字母开头
